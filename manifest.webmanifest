@@ -1,0 +1,8 @@
+{
+  "name": "Stitch Desk",
+  "short_name": "Stitch Desk",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FBF6F8",
+  "theme_color": "#FBF6F8"
+}
